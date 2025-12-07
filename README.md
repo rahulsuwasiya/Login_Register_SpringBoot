@@ -20,6 +20,14 @@ A **full-stack authentication system** built with **React JS** and **Spring Boot
 
 ---
 
+## ⚙️ Tech Stack
+
+- **Frontend:** React JS, React Router DOM  
+- **Backend:** Spring Boot, Spring Security (optional)  
+- **Communication:** Fetch / Axios for API calls  
+- **Business Logic:** Separated layer in `common/usecases` for reusability  
+
+---
 ## 🎨 Screenshots / Demo
 
 **Login Page**  
@@ -31,18 +39,7 @@ A **full-stack authentication system** built with **React JS** and **Spring Boot
 
 
 **Home Screen (Protected)**
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/cf253b90-1f77-477a-96de-b7104973a8ad" />
-
-
-
----
-
-## ⚙️ Tech Stack
-
-- **Frontend:** React JS, React Router DOM  
-- **Backend:** Spring Boot, Spring Security (optional)  
-- **Communication:** Fetch / Axios for API calls  
-- **Business Logic:** Separated layer in `common/usecases` for reusability  
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/402c1cd4-856e-4541-8382-b0adda6cbe54" />
 
 ---
 
