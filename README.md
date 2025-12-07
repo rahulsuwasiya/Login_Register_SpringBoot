@@ -22,30 +22,33 @@ A **full-stack authentication system** built with **React JS** and **Spring Boot
 
 ## 🗂 Project Structure
 
+```text
 project-root/
 │
-├─ backend/ # Spring Boot backend
-│ ├─ src/main/java/com/... # Controllers, Services, Repositories
-│ └─ src/main/resources/
+├─ backend/                     # Spring Boot backend
+│  ├─ src/main/java/com/...      # Controllers, Services, Repositories
+│  └─ src/main/resources/        # Application resources
 │
-├─ common/ # Independent business logic layer (can be reused)
-│ ├─ repositories/
-│ │ └─ AuthRepository.js
-│ ├─ services/
-│ │ └─ apiClient.js
-│ └─ usecases/
-│ └─ useCases.js
+├─ common/                       # Independent business logic layer (reusable for React, React Native, etc.)
+│  ├─ repositories/
+│  │  └─ AuthRepository.js
+│  ├─ services/
+│  │  └─ apiClient.js
+│  └─ usecases/
+│     └─ useCases.js
 │
-├─ frontend/ # React JS frontend
-│ ├─ src/
-│ │ ├─ screens/
-│ │ │ ├─ Login.jsx
-│ │ │ ├─ Register.jsx
-│ │ │ └─ HomeScreen.jsx
-│ │ ├─ App.jsx
-│ │ └─ index.jsx
-│ └─ package.json
+├─ frontend/                     # React JS frontend
+│  ├─ src/
+│  │  ├─ screens/
+│  │  │  ├─ Login.jsx
+│  │  │  ├─ Register.jsx
+│  │  │  └─ HomeScreen.jsx
+│  │  ├─ App.jsx
+│  │  └─ index.jsx
+│  └─ package.json
+│
 └─ README.md
+
 ---
 
 ## 🎨 Screenshots / Demo
