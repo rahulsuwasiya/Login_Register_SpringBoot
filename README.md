@@ -30,16 +30,15 @@ A **full-stack authentication system** built with **React JS** and **Spring Boot
 ---
 ## 🎨 Screenshots / Demo
 
-**Login Page**  
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/ba05647e-03ee-4a47-9db1-7126eacb7e48" />
+**Login Page**<br>
+<img width="500" height="400" alt="Login Page" src="https://github.com/user-attachments/assets/ba05647e-03ee-4a47-9db1-7126eacb7e48" /><br><br>
 
+**Register Page**<br>
+<img width="500" height="400" alt="Register Page" src="https://github.com/user-attachments/assets/a9d8ed2f-029b-4a8a-bb9e-dfab9174723e" /><br><br>
 
-**Register Page**  
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a9d8ed2f-029b-4a8a-bb9e-dfab9174723e" />
+**Home Screen (Protected)**<br/>
+<img width="500" height="400" alt="Home Screen" src="https://github.com/user-attachments/assets/402c1cd4-856e-4541-8382-b0adda6cbe54" /><br><br>
 
-
-**Home Screen (Protected)**
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/402c1cd4-856e-4541-8382-b0adda6cbe54" />
 
 ---
 
