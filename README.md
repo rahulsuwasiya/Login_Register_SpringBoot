@@ -1,7 +1,7 @@
 # 🔐 React JS Login & Register with Spring Boot REST API
 
-[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/)  
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-3.2.0-brightgreen?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
+[![React](https://img.shields.io/badge/React-19.0.0-blue?logo=react&logoColor=white)](https://reactjs.org/)  
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-3.5.0-brightgreen?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A **full-stack authentication system** built with **React JS** and **Spring Boot**, featuring a **separated business logic layer** so it can be reused for **React Native** apps in the future.
