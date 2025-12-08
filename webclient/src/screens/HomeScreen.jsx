@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import UserInfo from "./UserInfo";
 
 export default function HomeScreen() {
   const navigate = useNavigate();
@@ -12,6 +13,7 @@ export default function HomeScreen() {
   return (
     <div style={styles.container}>
       <h1>Welcome to Home!</h1>
+      <UserInfo/>
       <button style={styles.button} onClick={handleLogout}>
         Logout
       </button>
